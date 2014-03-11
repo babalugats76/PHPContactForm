@@ -24,9 +24,9 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
     
 * Update the pages ```<title></title>``` to include your name
 
-* Update the $to variable, setting it to an email you have access to and can check from school
+* Update ```$to = '';``` (line #28 of the code) to reflect your email address, e.g., ```$to = 'james@colestock.com';```. Make sure this is an email you have access to and can check from school
 
-6. 
+6. Test the form
 
 #Audience
 
