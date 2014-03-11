@@ -22,13 +22,15 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 
 5. Click on contact.php and make the following changes:
     
-* Update the pages `<title></title>` to include your name
+* Update the pages 
+    `<title></title>` 
+to include your name
 
-* Update `$to = '';` (line #28 of the code) to reflect your email address, e.g., `$to = 'james@colestock.com';`.  Make sure this is an email you have access to and can check from school
+* Update 
+    `$to = '';` (line #28 of the code) to reflect your email address, e.g., 
+    `$to = 'james@colestock.com';`.  Make sure this is an email you have access to and can check from school
 
-6. Test the form
-
-asdadfasdf
+6. 
 
 #Audience
 
