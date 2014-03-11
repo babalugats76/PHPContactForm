@@ -23,16 +23,19 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 5. Click on contact.php and make the following changes:
     
 * Update the pages
+
 ```
 <title></title>
 ```    
 to include your name
 
 * Update
+
 ```
 $to = '';
 ```     
 (line #28 of the code) to reflect your email address, e.g.,
+
 ```
 $to = 'james@colestock.com';
 ```    
