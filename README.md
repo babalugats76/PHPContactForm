@@ -21,18 +21,8 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 4. Select and drag the files from the archive into the 'Files' tab in Dreamweaver.  Make sure you are using your wheatridgehighschool.net site and that you are placing the files under the site's main directory using the 'Local View.'
 
 5. Click on contact.php and make the following changes:
-    
-    * Update the following to include your name: 
-
-    ```html
-    <title>Contact Form - Student Name</title>
-    ``` 
-
-    * Update line #28 of the code) to reflect your email address, e.g.:
-
-    ```php
-    $to = 'james@colestock.com';
-    ```
+    * Update the following to include your name: `<title>Contact Form - Student Name</title>`
+    * Update line #28 of the code) to reflect your email address, e.g. `$to = 'james@colestock.com';`
 
 6. Publish
 
