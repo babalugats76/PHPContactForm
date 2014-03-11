@@ -22,10 +22,14 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 
 5. Click on contact.php and make the following changes:
     
-* Update the pages title></title> to include your name
+* Update the pages ```html<title></title>``` to include your name
 
 * Update the $to variable, setting it to an email you have access to and can check from school
 
 6. 
+
+#Audience
+
+This project was developed for Computer Science students at Wheat Ridge High School in Wheat Ridge, CO.
 
 
