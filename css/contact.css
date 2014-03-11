@@ -17,7 +17,7 @@
 	font-size: 1.2em;
 }
 p.success {
-    display: block;
+        display: block;
 	text-align: center;
 	margin: 1em 0;
 }
@@ -47,7 +47,7 @@ form#contact {
 #submit {
 	display: block;
 	width: 100px;
-    margin: 0 auto;
+        margin: 0 auto;
 	padding: 3px;
 	background-color: #003D5D;
 	border-radius: 5px;
@@ -55,7 +55,7 @@ form#contact {
 }
 .form-row label {
 	display: inline-block;
-    width: 100px;
+        width: 100px;
 	vertical-align: top;
 }
 .form-row {
