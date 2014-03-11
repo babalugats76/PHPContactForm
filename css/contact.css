@@ -1,0 +1,63 @@
+@font-face {
+	font-family: 'Lobster';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Lobster'), url(https://themes.googleusercontent.com/static/fonts/lobster/v6/MWVf-Rwh4GLQVBEwbyI61Q.woff) format('woff');
+}
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Lobster, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	color: #444444;
+}
+#content {
+	width: 600px;
+	margin: 1em auto;
+	font-size: 1.2em;
+}
+p.success {
+    display: block;
+	text-align: center;
+	margin: 1em 0;
+}
+#header {
+	display: block;
+	border: 1px solid;
+	border-radius: .5em;
+	-webkit-border-radius: .5em;
+	margin: 0 auto;
+}
+form#contact {
+	width: 400px;
+	height: auto;
+	margin: 1em auto;
+	padding: 1em;	
+	background-color: #FAFAFA;
+	border: 1px solid #CACACA;
+	border-radius: .5em;
+	-webkit-border-radius: .5em;
+}
+#name, #message, #email {
+	width: 269px;
+	padding: 3px;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 1px solid #CACACA;
+}
+#submit {
+	display: block;
+	width: 100px;
+    margin: 0 auto;
+	padding: 3px;
+	background-color: #003D5D;
+	border-radius: 5px;
+	color: #FFFFFF;
+}
+.form-row label {
+	display: inline-block;
+    width: 100px;
+	vertical-align: top;
+}
+.form-row {
+	padding: 1em 0;
+}
