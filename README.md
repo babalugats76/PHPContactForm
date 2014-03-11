@@ -1,8 +1,14 @@
+#Summary
+
 This project shows you how to create a simple contact form using PHP.
+
+#What you will learn
 
 You will learn the basics of HTML forms as well as how PHP can be used to perform powerful, useful tasks.
 
 Specifically, you will study and make modifications to code that programmatically takes user input and uses it to compose and send an email.
+
+#Installation
 
 This is a 'Skeleton Project' which requires the following steps to get up and running:
 
@@ -14,12 +20,11 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 
 4. Select and drag the files from the archive into the 'Files' tab in Dreamweaver.  Make sure you are using your wheatridgehighschool.net site and that you are placing the files under the site's main directory using the 'Local View.'
 
-
 5. Click on contact.php and make the following changes:
     
-Update the pages <title></title> to include your name
+* Update the pages title></title> to include your name
 
-Update the $to variable, setting it to an email you have access to and can check from school
+* Update the $to variable, setting it to an email you have access to and can check from school
 
 6. 
 
