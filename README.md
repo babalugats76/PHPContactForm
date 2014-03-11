@@ -24,17 +24,15 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
     
 * Update the following to include your name: 
 
-    ````html
-    <title></title>
-    ```` 
+    ```html
+    <title>Contact Form - Student Name</title>
+    ``` 
 
 * Update line #28 of the code) to reflect your email address, e.g.:
 
-    ````php
+    ```php
     $to = 'james@colestock.com';
-    ````
-
-Make sure this is an email you have access to and can check from school
+    ```
 
 6. Publish
 
