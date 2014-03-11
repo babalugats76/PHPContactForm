@@ -22,13 +22,13 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 
 5. Click on contact.php and make the following changes:
     
-* Update the following to include your name: 
+    * Update the following to include your name: 
 
     ```html
     <title>Contact Form - Student Name</title>
     ``` 
 
-* Update line #28 of the code) to reflect your email address, e.g.:
+    * Update line #28 of the code) to reflect your email address, e.g.:
 
     ```php
     $to = 'james@colestock.com';
