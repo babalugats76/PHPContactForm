@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Contact Form - James Colestock</title>
+      <!-- Change 'Student Name' to your name, e.g., James Colestock -->
+      <title>Contact Form - Student Name</title>
       <link rel="stylesheet" type="text/css" href="css/contact.css">
    </head>
    <body>
@@ -17,13 +18,14 @@
                    echo "Message: " . htmlspecialchars($_POST["message"]) . "<br>"; */
               
                 /* Email "headers" are used to define the type and contents of an email */
-                $headers  = "From: WRHS Contact Form <noreply@wheatridgehighschool>\r\n";
+                $headers  = "From: WRHS Contact Form <noreply@wheatridgehighschool.net>\r\n";
                 $headers .= "Reply-To: " . strip_tags($_POST["email"]) . "\r\n";
                 $headers .= "MIME-Version: 1.0\r\n";
                 $headers .= "Content-Type: text/html";
             
-                /* Hard-code to email account you check */ 
-                $to = 'james@colestock.com';
+                /* Hard-code to an email account you check; for example:
+				   $to = 'james@colestock.com'; */ 
+                $to = '';
                 $subject = 'Contact Request';
             
                 /* Customize the body of the email here */
