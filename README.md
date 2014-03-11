@@ -12,21 +12,21 @@ Specifically, you will study and make modifications to code that programmaticall
 
 This is a 'Skeleton Project' which requires the following steps to get up and running:
 
-1.Download the code from GitHub by clicking on the 'Download ZIP' button or via the following URL: https://github.com/babalugats76/PHPContactForm/archive/master.zip
+1. Download the code from GitHub by clicking on the 'Download ZIP' button or via the following URL: https://github.com/babalugats76/PHPContactForm/archive/master.zip
 
-2.Extract files from PHPContactForm-master.zip by right-clicking and selecting 'Extract All'
+2. Extract files from PHPContactForm-master.zip by right-clicking and selecting 'Extract All'
 
-3.Open Dreamweaver
+3. Open Dreamweaver
 
-4.Select and drag the files from the archive into the 'Files' tab in Dreamweaver.  Make sure you are using your wheatridgehighschool.net site and that you are placing the files under the site's main directory using the 'Local View.'
+4. Select and drag the files from the archive into the 'Files' tab in Dreamweaver.  Make sure you are using your wheatridgehighschool.net site and that you are placing the files under the site's main directory using the 'Local View.'
 
-5.Click on contact.php and make the following changes:
+5. Click on contact.php and make the following changes:
     
 * Update the pages ```<title></title>``` to include your name
 
 * Update ```$to = '';``` (line #28 of the code) to reflect your email address, e.g., ```$to = 'james@colestock.com';```. Make sure this is an email you have access to and can check from school
 
-6.Test the form
+6. Test the form
 
 #Audience
 
