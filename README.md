@@ -22,7 +22,6 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 
 5. Click on contact.php and make the following changes:
     * Update line #5 replacing 'Student Name' with your name, e.g., `<title>Contact Form - James Colestock</title>`
-
     * Update line #28 to reflect your email address, e.g. `$to = 'james@colestock.com';`
 
 6. Publish
