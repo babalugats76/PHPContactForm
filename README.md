@@ -24,11 +24,12 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
     * Update **line #5** replacing 'Student Name' with your name, e.g., `<title>Contact Form - James Colestock</title>`
     * Update **line #28** to reflect your email address, e.g. `$to = 'james@colestock.com';`
 
-6. Publish
+6. Save and Publish
     * Save the changes: **File->Save All**
     * From Dreamweaver, **put** the files to your website
 
-- Test the form
+7. Test the Contact Form
+    * Navigate to the form in your web browser, e.g., http://wheatridgehighschool.net/students/jamesc/contact.php, fill out the contact form and press submit.  Please be patient, it normally takes about a minute from the time an email is sent until it is delivered.
 
 #Audience
 
