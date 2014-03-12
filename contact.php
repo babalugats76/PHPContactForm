@@ -4,6 +4,7 @@
       <!-- Change 'Student Name' to your name, e.g., James Colestock -->
       <title>Contact Form - Student Name</title>
       <link rel="stylesheet" type="text/css" href="css/contact.css">
+      <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
    </head>
    <body>
       <div id="content">
