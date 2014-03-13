@@ -27,6 +27,7 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 6. Save and Publish
     * Save the changes: **File->Save All**
     * From Dreamweaver, **put** the files to your website
+![What the contents of the project look like](http://static.colestock.com/images/php-contact-form-ftp-591x230.jpg "What the contents of the project look like in Dreamweaver")
 
 7. Test the Contact Form
     * Navigate to the form in your web browser, e.g., http://wheatridgehighschool.net/students/jamesc/contact.php, fill out the contact form and press submit.  Please be patient, it normally takes about a minute from the time an email is sent until it is delivered.
